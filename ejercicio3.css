@@ -1,0 +1,46 @@
+.formulario{
+    background-color: burlywood;
+    display: block;
+    padding: 50px;
+    margin: 200px;
+    border: 4px solid silver;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+h1{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input{
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+button{
+    width: 90px;
+    height: 60px;
+    border-radius: 3px;
+    margin-left: 150px;
+    color: silver;
+    background-color: black;
+}
+
+.informacion{
+    
+    display: flex;
+    padding: 50px;
+    margin-left:500px;
+    margin-right: 500px;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid black;
+
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}

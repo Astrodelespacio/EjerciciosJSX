@@ -1,0 +1,28 @@
+.boton, li .boton{
+ width: 120px;   
+ height: 35px;
+ color: darkblue;
+ background-color:darkcyan;
+
+
+}
+
+.lista{
+    background-color: azure;
+    border: 2px solid ;
+    margin: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    margin:5%;
+    width: 300px;
+    height: 30px;
+}
+
+

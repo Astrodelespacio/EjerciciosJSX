@@ -1,0 +1,29 @@
+.contador{
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    border:2px solid rosybrown;
+    padding: 0%;
+}
+
+h1{
+    display: block;
+    
+}
+
+.boton{
+    width: 60px;
+    height: 40px;
+    margin-top: 20px;
+    margin: 25px;
+    font-size: medium;
+    border-radius: 5px;
+    color: darkblue;
+    background-color: burlywood;
+}
